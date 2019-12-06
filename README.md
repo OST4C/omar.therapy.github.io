@@ -1,37 +1,5 @@
-## Welcome to GitHub Pages
+## Therapy for Change
 
-You can use the [editor on GitHub](https://github.com/OST4C/omar.therapy.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+If you are here, you are looking for changes in your life. Whatever the reason, I can help you to get back on track. I'm an experienced therapist and have helped men and women with difficulties ranging from feeling stuck in their lives to overcoming anxiety, depression, phobias and longstanding relationship difficulties. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/OST4C/omar.therapy.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+I see therapy as a means of personal development and challenging times as a springboard for positive growth. Why not meet me for a friendly chat about how I may be able to help you. 
